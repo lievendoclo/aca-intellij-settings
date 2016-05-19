@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-2.0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.1/extResources/fdbcb8f6_dbchangelog-2.0.xsd" />
+  </component>
+</application>
