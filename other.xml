@@ -3,7 +3,9 @@
     <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/eclipse_formatter.xml" />
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.0.0" last-modified="1461700228000" />
+    </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/6.0.0/bin/node" />
   </component>
   <component name="RefactoringSettings">
