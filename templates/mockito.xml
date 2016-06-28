@@ -1,0 +1,15 @@
+<templateSet group="mockito">
+  <template name="runwithmockito" value="@RunWith(MockitoJUnitRunner.class)" description="JUnit runner annotation for Mockito" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="mock" value="@Mock&#10;private $TYPE$ $MOCKNAME$;" description="Mockito mock" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MOCKNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
