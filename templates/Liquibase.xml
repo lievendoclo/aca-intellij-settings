@@ -3,9 +3,7 @@
     <variable name="ID" expression="groovyScript(&quot;groovy code&quot;)" defaultValue="" alwaysStopAt="false" />
     <variable name="AUTHOR" expression="user()" defaultValue="" alwaysStopAt="false" />
     <context>
-      <option name="XSL_TEXT" value="true" />
       <option name="XML" value="true" />
-      <option name="XML_TEXT" value="true" />
     </context>
   </template>
 </templateSet>
