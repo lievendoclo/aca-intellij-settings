@@ -2,9 +2,9 @@
   <option name="LINE_SPACING" value="0.9" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_SIZE" value="10" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <attributes>
     <option name="MARKDOWN_NAVIGATOR.BOLD_CODE_TEXT">
