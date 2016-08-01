@@ -99,6 +99,24 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="*.Service lifecycle stabilized.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="5d98ccd2-30bc-4d56-aa6f-a77ab06d89db" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742007" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="f81086b6-ac92-4d93-ad94-754e1ad057b2" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="default" />
