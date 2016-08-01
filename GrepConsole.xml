@@ -4,6 +4,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableMaxLengthLimit" value="false" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -100,11 +101,8 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value="*.Service lifecycle stabilized.*" />
-                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="grepExpression" value="*.lifecyle.*stabilized.*" />
                       <option name="id" value="5d98ccd2-30bc-4d56-aa6f-a77ab06d89db" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
