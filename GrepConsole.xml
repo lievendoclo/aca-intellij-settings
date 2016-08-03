@@ -102,13 +102,13 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value="*.lifecyle.*stabilized.*" />
+                      <option name="grepExpression" value=".*stabilized.*" />
                       <option name="id" value="5d98ccd2-30bc-4d56-aa6f-a77ab06d89db" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-16742007" />
+                              <option name="color" value="-16742110" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
