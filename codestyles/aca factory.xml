@@ -17,6 +17,7 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="200" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
