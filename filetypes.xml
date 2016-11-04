@@ -6,6 +6,7 @@
       <mapping ext="epoch" type="PLAIN_TEXT" />
       <mapping ext="st" type="PLAIN_TEXT" />
       <mapping ext="modules" type="PLAIN_TEXT" />
+      <mapping ext="cisl" type="PLAIN_TEXT" />
       <mapping ext="jsfiles" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="Properties" />
     </extensionMap>
