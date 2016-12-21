@@ -2,6 +2,5 @@
   <template name="forf" value="IntStream.range($START$, $STOP$).forEach(i -&gt; { &#10;    $END$ &#10;});" description="Loop using streams" toReformat="false" toShortenFQNames="true">
     <variable name="START" expression="" defaultValue="0" alwaysStopAt="true" />
     <variable name="STOP" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
