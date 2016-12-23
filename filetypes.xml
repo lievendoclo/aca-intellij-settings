@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="IMPLEMENTME" type="PLAIN_TEXT" />
       <mapping pattern="content" type="PLAIN_TEXT" />
       <mapping pattern="translog-1463132087006" type="PLAIN_TEXT" />
       <mapping ext="epoch" type="PLAIN_TEXT" />
