@@ -1,5 +1,5 @@
 <templateSet group="Liquibase">
-  <template name="changeset" value="&lt;changeSet id=&quot;$ID$&quot; author=&quot;$AUTHOR$&quot;&gt;&#10;        $END$&#10;&lt;/changeSet&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="changeset" value="&lt;changeSet id=&quot;$ID$&quot; author=&quot;$AUTHOR$&quot;&gt;&#10;        $END$&#10;&lt;/changeSet&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="ID" expression="groovyScript(&quot;groovy code&quot;)" defaultValue="" alwaysStopAt="false" />
     <variable name="AUTHOR" expression="user()" defaultValue="" alwaysStopAt="false" />
     <context>
