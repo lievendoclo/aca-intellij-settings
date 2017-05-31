@@ -2,13 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="IMPLEMENTME" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="content" type="PLAIN_TEXT" />
       <mapping pattern="translog-1463132087006" type="PLAIN_TEXT" />
-      <mapping ext="epoch" type="PLAIN_TEXT" />
-      <mapping ext="st" type="PLAIN_TEXT" />
-      <mapping ext="modules" type="PLAIN_TEXT" />
-      <mapping ext="cisl" type="PLAIN_TEXT" />
       <mapping ext="jsfiles" type="PLAIN_TEXT" />
+      <mapping ext="epoch" type="PLAIN_TEXT" />
+      <mapping ext="modules" type="PLAIN_TEXT" />
+      <mapping ext="st" type="PLAIN_TEXT" />
+      <mapping ext="cisl" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="Properties" />
     </extensionMap>
   </component>
