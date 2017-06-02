@@ -9,11 +9,10 @@
       <emptyLine />
       <package name="javax" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="org" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="com" withSubpackages="true" static="false" />
-      <emptyLine />
       <package name="" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="be.aca" withSubpackages="true" static="false" />
+      <package name="com.enhesa" withSubpackages="true" static="false" />
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="200" />
@@ -57,9 +56,6 @@
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
