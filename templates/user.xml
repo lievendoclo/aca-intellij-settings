@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="dvx-usecase" value="data class CreateBuildingRequest(val name: &lt;TBD&gt;)&#10;data class CreateBuildingResponse(val id: &lt;TBD&gt;)&#10;&#10;interface CreateBuilding {&#10;    fun create(request: &lt;TBD&gt;): &lt;TBD&gt;&#10;}&#10;&#10;data class BuildingResponse(val id: &lt;TBD&gt;, val name: &lt;TBD&gt;)&#10;&#10;interface GetBuildings {&#10;    fun list(): &lt;TBD&gt;&lt;&lt;TBD&gt;&gt;&#10;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
